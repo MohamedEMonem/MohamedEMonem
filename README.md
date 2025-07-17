@@ -1,5 +1,5 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mohamedemonem" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/mohamedemonem?trk=profile-badge">Mohamed Abd El-Moneim</a></div>
-              </script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedemonem/)
+
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 

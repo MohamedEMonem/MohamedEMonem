@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohamedemonem/**
 
-- <a herf="https://portfolly.io/mohamedemonem" target="blank">My portfolio </a>
+- <a href="https://portfolly.io/mohamedemonem" target="blank"> My portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
